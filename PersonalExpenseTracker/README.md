@@ -5,6 +5,8 @@
 * **Batch:**38
 * **Team Members:**
 1. Shaurya Awasthi
+2. Shanvi Pachauri
+3. Vansh Tiwari
 
 ## Problem Statement
 Build a simple, menu-driven Personal Expense Tracker in C to help a student manage a monthly budget, categorize expenses (Food, Travel, Books, Entertainment), calculate total spending and remaining budget, identify the highest-spending category, and display a warning if the budget is exceeded.
